@@ -1,4 +1,4 @@
-# co8b34799a6b2cde7d574ec07
+#Course link: https://scrimba.com/learn/typescript/introduction-to-typescript-cgVP3bHy
 
 Quick start:
 
